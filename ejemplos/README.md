@@ -5,14 +5,14 @@ En esta sección encontrarás ejemplos reales de perfiles de GitHub excepcionale
 ## 👨‍💻 Perfiles Destacados
 
 ### Desarrolladores Full-Stack
-- [Andrea Dominguez](https://github.com/andrea-dominguez)
+- [Andrea Dominguez](https://github.com/Jhamile08)
 - [Adrian Hajdin](https://github.com/adrianhajdin)
 
 ### Especialistas Frontend
 - [Kent C. Dodds](https://github.com/kentcdodds)
 - [Brad Traversy](https://github.com/bradtraversy)
 - [Wes Bos](https://github.com/wesbos)
-
+w
 ### Desarrolladores Backend
 - [Taylor Otwell](https://github.com/taylorotwell)
 - [DHH](https://github.com/dhh)
